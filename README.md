@@ -8,6 +8,6 @@ The security-spring-demo project is a Spring Boot application that demonstrates 
 - Form-Based Login: Includes a custom login form for user authentication.
 - In-Memory User Details: Utilizes in-memory storage for user details and roles for demonstration purposes.
 
-##Prerequisites
+## Prerequisites
 - Java Development Kit (JDK) 17 or later.
 - Maven 3.5+ or Gradle 7.5+ for building the project.
